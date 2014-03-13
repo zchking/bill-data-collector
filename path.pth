@@ -1,0 +1,4 @@
+ # datacenter package configuration
+ /SearchCenter/getData/ServerData.py
+ /SearchCenter/getData/lib/
+ /SearchCenter/getData/lib/getWeb/
